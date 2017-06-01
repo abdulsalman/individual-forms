@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C992B5EF-0B2A-4C13-85C0-690A13A6F18F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArabWaha.Employee/ArabWaha.Employee/ViewModels/LoginPageViewModel.cs">
+    <Files>
+      <File FileName="../ArabWaha.Core/Services/AuthService.cs" Line="93" Column="1" />
+      <File FileName="../ArabWaha.Core/Models/JobLists/WatchJobListRoot.cs" Line="123" Column="43" />
+      <File FileName="../ArabWaha.Core/Web/AWWebClient.cs" Line="2179" Column="13" />
+      <File FileName="../ArabWaha.Core/Web/PortableWebClient.cs" Line="27" Column="16" />
+      <File FileName="../ArabWaha.Core/BusinessLogic/LoginManager.cs" Line="164" Column="10" />
+      <File FileName="ArabWaha.Employee/ArabWaha.Employee/App.xaml.cs" Line="68" Column="24" />
+      <File FileName="ArabWaha.Employee/ArabWaha.Employee/ViewModels/LoginPageViewModel.cs" Line="86" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ArabWaha.Employee.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
