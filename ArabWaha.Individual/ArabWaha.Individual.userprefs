@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{743FFAD6-0BD5-468C-90C8-413CA561D365}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArabWaha.Employer/ArabWaha.Employer.Android/Renders/HighProgressBarRenderer.cs">
+    <Files>
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/ViewModels/JobPageViewModel.cs" Line="602" Column="14" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer.Android/Renders/linkLabelRenderer.cs" Line="18" Column="34" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/Controls/HighProgressBar.cs" Line="8" Column="30" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/Controls/HomeCustomViewCell.xaml" Line="25" Column="12" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/Controls/ItemTappedAttached.cs" Line="9" Column="30" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/Controls/LinkLabel.cs" Line="9" Column="30" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer/Controls/UnderlineEffect.cs" Line="8" Column="30" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer.Android/Renders/UnderlineEffect.cs" Line="14" Column="24" />
+      <File FileName="ArabWaha.Employer/ArabWaha.Employer.Android/Renders/HighProgressBarRenderer.cs" Line="14" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArabWaha.Individual" expanded="True">
+            <Node name="ArabWaha.Individual.Android" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+              <Node name="Renders" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ArabWaha.Individual.Android PreferredExecutionTarget="Android.ce12160c334e933c05" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
